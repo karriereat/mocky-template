@@ -6,7 +6,7 @@
 
 
 # Mocky Template
-This repository provides a implementation template for [Mocky](https://github.com/karriereat/mocky).
+This repository provides an implementation template for [Mocky](https://github.com/karriereat/mocky).
 
 ## License
 Apache License 2.0 Please see [LICENSE](LICENSE) for more information.
