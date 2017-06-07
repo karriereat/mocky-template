@@ -1,0 +1,15 @@
+{
+  "name": "karriere/mocky-template",
+  "description": "A template project for using the Mocky",
+  "keywords": ["php", "api-mocking", "mock-server"],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "johannes.pichler",
+      "email": "johannes.pichler@karriere.at"
+    }
+  ],
+  "require": {
+    "karriere/mocky": "^1.1"
+  }
+}
