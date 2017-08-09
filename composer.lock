@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "30ea1b52335ed46768d882037fcb0e40",
     "content-hash": "6fde9625f32e3023abe4669d1251b9e2",
     "packages": [
         {
@@ -36,20 +35,20 @@
             ],
             "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
             "homepage": "https://github.com/container-interop/container-interop",
-            "time": "2017-02-14 19:40:03"
+            "time": "2017-02-14T19:40:03+00:00"
         },
         {
             "name": "karriere/mocky",
-            "version": "v1.1.0",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/karriereat/mocky.git",
-                "reference": "e1264fcf75ebe7a643f201aae42cb23103be8582"
+                "reference": "79497bcfe44befd621cf174120be2ff46df439a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/karriereat/mocky/zipball/e1264fcf75ebe7a643f201aae42cb23103be8582",
-                "reference": "e1264fcf75ebe7a643f201aae42cb23103be8582",
+                "url": "https://api.github.com/repos/karriereat/mocky/zipball/79497bcfe44befd621cf174120be2ff46df439a9",
+                "reference": "79497bcfe44befd621cf174120be2ff46df439a9",
                 "shasum": ""
             },
             "require": {
@@ -77,7 +76,7 @@
                 "mock-server",
                 "php"
             ],
-            "time": "2017-06-07 11:24:46"
+            "time": "2017-08-09T07:26:04+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -155,7 +154,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2017-03-13 07:08:03"
+            "time": "2017-03-13T07:08:03+00:00"
         },
         {
             "name": "nikic/fast-route",
@@ -198,7 +197,7 @@
                 "router",
                 "routing"
             ],
-            "time": "2017-01-19 11:35:12"
+            "time": "2017-01-19T11:35:12+00:00"
         },
         {
             "name": "pimple/pimple",
@@ -244,7 +243,7 @@
                 "container",
                 "dependency injection"
             ],
-            "time": "2015-09-11 15:10:35"
+            "time": "2015-09-11T15:10:35+00:00"
         },
         {
             "name": "psr/container",
@@ -293,7 +292,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14 16:28:37"
+            "time": "2017-02-14T16:28:37+00:00"
         },
         {
             "name": "psr/http-message",
@@ -343,7 +342,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06 14:39:51"
+            "time": "2016-08-06T14:39:51+00:00"
         },
         {
             "name": "psr/log",
@@ -390,7 +389,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "slim/php-view",
@@ -439,7 +438,7 @@
                 "template",
                 "view"
             ],
-            "time": "2016-10-11 07:43:08"
+            "time": "2016-10-11T07:43:08+00:00"
         },
         {
             "name": "slim/slim",
@@ -510,7 +509,7 @@
                 "micro",
                 "router"
             ],
-            "time": "2017-03-19 17:55:20"
+            "time": "2017-03-19T17:55:20+00:00"
         },
         {
             "name": "slim/slim-skeleton",
@@ -555,7 +554,7 @@
                 "rest",
                 "router"
             ],
-            "time": "2016-09-04 14:27:44"
+            "time": "2016-09-04T14:27:44+00:00"
         }
     ],
     "packages-dev": [],
